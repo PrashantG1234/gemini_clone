@@ -1,2 +1,2 @@
-# gemini_clone
-a gemini clone web application using react js with all the functionality with fully responsiveness
+import numpy as np
+import pandas as pd
